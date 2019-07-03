@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - "10"
+sudo: enabled
+dist: xenial
+install:
+  - curl -L https://noc.one/ubuntu | bash
+  - sudo apt update
+  - sudo apt -y install libxml2-utils
+script:
+  - chmod +x ./run.sh
+  - ./run.sh
