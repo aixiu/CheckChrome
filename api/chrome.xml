@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2019-08-16 08:36:17</time>
+  <time>2019-08-17 08:36:37</time>
   <stable32>
     <version>76.0.3809.100</version>
     <download>
@@ -56,21 +56,21 @@
     <size>56666880</size>
   </dev64>
   <canary32>
-    <version>78.0.3884.0</version>
+    <version>78.0.3885.0</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/ALYAPF5qJWQJgElnALZz9Jc_78.0.3884.0/78.0.3884.0_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/ALYAPF5qJWQJgElnALZz9Jc_78.0.3884.0/78.0.3884.0_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AIieursGiDNCzkFqN38O4KU_78.0.3885.0/78.0.3885.0_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/AIieursGiDNCzkFqN38O4KU_78.0.3885.0/78.0.3885.0_chrome_installer.exe</url>
     </download>
-    <sha256>de324a38f2e02d12935dbfa531fa4760f90d16de7f79f6dba70b9e604d89f95a</sha256>
-    <size>56165632</size>
+    <sha256>0fec7b509246e0b7239e5b9548bb8b75a571fb26c4b885875b3485b0633018e4</sha256>
+    <size>56169216</size>
   </canary32>
   <canary64>
-    <version>78.0.3884.0</version>
+    <version>78.0.3885.0</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/ALwwdt8E7xqze723xn7McMI_78.0.3884.0/78.0.3884.0_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/ALwwdt8E7xqze723xn7McMI_78.0.3884.0/78.0.3884.0_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/F65cwX0440Qg1OIVXXSSXQ_78.0.3885.0/78.0.3885.0_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/F65cwX0440Qg1OIVXXSSXQ_78.0.3885.0/78.0.3885.0_chrome_installer.exe</url>
     </download>
-    <sha256>c25862b1eb1c0bd2201332ffe02e6b6c9255c862f58bebf711e4fdfd735d0adc</sha256>
-    <size>56796416</size>
+    <sha256>043a576e88f0f664899332476a0bec5389006ef0c27f41e0ea378608408518b0</sha256>
+    <size>56804608</size>
   </canary64>
 </chromechecker>
