@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2019-10-21 09:09:25</time>
+  <time>2019-10-22 09:10:25</time>
   <stable32>
     <version>77.0.3865.120</version>
     <download>
@@ -20,22 +20,22 @@
     <size>56187648</size>
   </stable64>
   <beta32>
-    <version>78.0.3904.63</version>
+    <version>78.0.3904.70</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/APNRyJHsydd6uQsMbmbG2B8_78.0.3904.63/78.0.3904.63_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/APNRyJHsydd6uQsMbmbG2B8_78.0.3904.63/78.0.3904.63_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AMM_sCHvUQlajwOCqaT9vdU_78.0.3904.70/78.0.3904.70_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/AMM_sCHvUQlajwOCqaT9vdU_78.0.3904.70/78.0.3904.70_chrome_installer.exe</url>
     </download>
-    <sha256>eaf6aab60d618ab821e6c72e30e9b53b381033afdf8ba89f59cc6e4a61a361e4</sha256>
-    <size>56792832</size>
+    <sha256>ce7a246e1e789e76a0f6dbdacdf1b6adef9ede00f55f8e2341e91c05b201e9e5</sha256>
+    <size>56786176</size>
   </beta32>
   <beta64>
-    <version>78.0.3904.63</version>
+    <version>78.0.3904.70</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AL2k_jLiAa1Q6wgQJ6KywG8_78.0.3904.63/78.0.3904.63_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/AL2k_jLiAa1Q6wgQJ6KywG8_78.0.3904.63/78.0.3904.63_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AOwc74zXwu9gfZo8W5cKY0Y_78.0.3904.70/78.0.3904.70_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/AOwc74zXwu9gfZo8W5cKY0Y_78.0.3904.70/78.0.3904.70_chrome_installer.exe</url>
     </download>
-    <sha256>1616b9f3807db0c8d45447f944607909ab8d9eed705a2c85fd463a0caa382d8d</sha256>
-    <size>57714432</size>
+    <sha256>1abbeaba9f13cf5512afad0f8a512f3170e66a7495bedfa60089c9f638fa315e</sha256>
+    <size>57662208</size>
   </beta64>
   <dev32>
     <version>79.0.3938.0</version>
