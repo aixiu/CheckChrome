@@ -16,7 +16,7 @@ rm -rf ./*
 cp -rf ../public/* ../_deploy/
 
 touch CNAME
-echo 'https://aixiu.github.io/CheckChrome/' > ./CNAME
+echo 'aixiu.github.io/CheckChrome' > ./CNAME
 
 git add --all .
 git commit -m "Daily check of Chrome offline packages by Travis CI"
